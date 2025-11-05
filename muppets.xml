@@ -72,6 +72,8 @@
   <project name="TheMuppets/proprietary_vendor_motorola_parker" path="vendor/motorola/parker" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_pstar" path="vendor/motorola/pstar" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_rhode" path="vendor/motorola/rhode" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_smith" path="vendor/motorola/smith" revision="lineage-20" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_motorola_sm7250-common" path="vendor/motorola/sm7250-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm6150-common" path="vendor/motorola/sm6150-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" revision="lineage-20" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_sm8250-common" path="vendor/motorola/sm8250-common" revision="lineage-20" clone-depth="1" />
